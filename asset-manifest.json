@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-tailwindcss-image-slider-cc-2022/static/css/main.59bc0821.css",
+    "main.js": "/reactjs-tailwindcss-image-slider-cc-2022/static/js/main.fc17ddee.js",
+    "index.html": "/reactjs-tailwindcss-image-slider-cc-2022/index.html",
+    "main.59bc0821.css.map": "/reactjs-tailwindcss-image-slider-cc-2022/static/css/main.59bc0821.css.map",
+    "main.fc17ddee.js.map": "/reactjs-tailwindcss-image-slider-cc-2022/static/js/main.fc17ddee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59bc0821.css",
+    "static/js/main.fc17ddee.js"
+  ]
+}
