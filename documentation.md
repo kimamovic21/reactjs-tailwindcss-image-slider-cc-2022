@@ -12,3 +12,11 @@
 12. dodajemo onClick dogadaje
 13. stiliziramo elemente
 
+
+Github pages
+1. npm i gh-pages --save-dev
+2. otvaramo package.json fajl
+3. "homepage": "https://kimamovic21.github.io/reactjs-tailwindcss-image-slider-cc-2022"
+4. "predeploy" : "npm run build",
+    "deploy": "gh-pages -d build",
+5. npm run deploy
